@@ -16,9 +16,15 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
+  about:
     title: "in theaters now"
-    text: "이번주 개봉 영화"
+    text: "6월 개봉 영화"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported." 
+    section: about
+    
+  services:
+    title: "About this movie"
+    text: "our story"
     section: services
     list:
       - title: "E-Commerce"
@@ -36,12 +42,6 @@ en: &DEFAULT_EN
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
-
-  about:
-    title: "About this movie"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   contact:
     title: "Contact Us"

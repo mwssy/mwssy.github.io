@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "in theaters now"
+      section: about
+    - title: "About this movie"
       section: services
     - title: "My favorite movie"
       section: portfolio
-    - title: "About this movie"
-      section: about
     - title: "Contact"
       section: contact
 en-US:

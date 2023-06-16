@@ -44,6 +44,9 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
+  .text-muted{
+    font-family: "Nanum Myeongjo";
+  }
 }
 @media (min-width: 768px) {
   section {
