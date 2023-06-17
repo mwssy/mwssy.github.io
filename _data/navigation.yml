@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "in theaters now"
       section: about
-    - title: "About this movie"
+    - title: "How to get discount tickets"
       section: services
     - title: "My favorite movie"
       section: portfolio

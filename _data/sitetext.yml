@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 안 녕 하 세 요!!!!!!!
+    title: 그래도 영화 사랑하시죠?
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -23,23 +23,23 @@ en: &DEFAULT_EN
     section: about
     
   services:
-    title: "About this movie"
-    text: "our story"
+    title: "How to get discount tickets"
+    text: "할인 정보"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "card Payment"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fa fa-credit-card #find more at https://fontawesome.com/icons
+      - title: "mobile carrier discount"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fa fa-mobile
+      - title: "membership"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa fa-user
 
   portfolio:
     title: "My favorite movie"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "한번쯤은 꼬옥 봐줬으면 하는 영화"
     section: portfolio
     closebutton: "Close Project"
 

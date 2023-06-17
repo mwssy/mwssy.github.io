@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Blade Runner
-  subtitle: 블레이드 러너
-  thumbnail: assets/img/portfolio/bladerunner1.jpg
+  title: Three Billboards
+  subtitle: 쓰리 빌보드
+  thumbnail: assets/img/portfolio/threebillboards1.jpg
   
 #what displays when the item is clicked:
 title: Title

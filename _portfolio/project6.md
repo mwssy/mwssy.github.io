@@ -5,9 +5,9 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Magnolia
-  subtitle: 매그놀리아
-  thumbnail: assets/img/portfolio/magnolia1.jpg
+  title: Get Out
+  subtitle: 겟 아웃
+  thumbnail: assets/img/portfolio/getout1.jpg
 ---
 
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
