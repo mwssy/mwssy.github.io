@@ -28,24 +28,24 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "card Payment"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "사용중인 카드 할인을 살펴보세요"
         icon: fa fa-credit-card #find more at https://fontawesome.com/icons
       - title: "mobile carrier discount"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "통신사 할인"
         icon: fa fa-mobile
       - title: "membership coupon"
-        desc: "Your description here, full **Markdown** support"
+        desc: "영화관 회원 할인"
         icon: fa fa-user
 
   portfolio:
     title: "My favorite movie"
     text: "무작위로 추천하는 영화"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

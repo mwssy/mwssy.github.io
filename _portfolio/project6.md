@@ -1,7 +1,7 @@
 ---
-title: Project Name
+title: Get Out
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/getout2.jpg
 alt: Keep Exploring
 
 caption:

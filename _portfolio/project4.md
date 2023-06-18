@@ -5,9 +5,9 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/the-florida-project1.jpg
   
 #what displays when the item is clicked:
-title: Title
+title: The Florida Project
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/the-florida-project2.jpg
 alt: image alt text
 
 ---
