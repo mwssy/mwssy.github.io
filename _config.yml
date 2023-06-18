@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "http://mwssy.github.io" # the base hostname & protocol for your site, e.g. http://mwssy.github.io
-baseurl: "/movie_movie" # the subpath of your site, e.g. /movie_website
+baseurl: "/movie_website" # the subpath of your site, e.g. /movie_website
 
 title      : MovieMovie
 email      : mokmail070@mokwon.ac.kr
