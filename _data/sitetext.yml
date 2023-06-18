@@ -14,11 +14,11 @@ en: &DEFAULT_EN
     title: 그래도 영화 사랑하시죠?
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   about:
     title: "in theaters now"
-    text: "6월 개봉 영화"
+    text: "6월 상영작"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported." 
     section: about
     
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
       - title: "mobile carrier discount"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa fa-mobile
-      - title: "membership"
+      - title: "membership coupon"
         desc: "Your description here, full **Markdown** support"
         icon: fa fa-user
 
   portfolio:
     title: "My favorite movie"
-    text: "한번쯤은 꼬옥 봐줬으면 하는 영화"
+    text: "무작위로 추천하는 영화"
     section: portfolio
     closebutton: "Close Project"
 

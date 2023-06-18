@@ -8,9 +8,34 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].about.text | default: "" }}</h3>
       </div>
     </div>
+    <!--
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      </div>
+    </div>
+    -->
+    <div class="container">
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=160244"><img src="assets/img/slide1.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=163777"><img src="assets/img/slide2.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=155850"><img src="assets/img/slide3.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=136532"><img src="assets/img/slide4.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=43294"><img src="assets/img/slide5.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=129156"><img src="assets/img/slide6.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=133193"><img src="assets/img/slide7.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=165969"><img src="assets/img/slide8.jpg"></a></div>
+          <div class="swiper-slide"><a href="https://movie.daum.net/moviedb/main?movieId=167558"><img src="assets/img/slide9.jpg"></a></div>
+        </div>
+      
+        <!-- navigation buttons
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div> -->
+      
+        <!-- scrollbar -->
+        <div class="swiper-scrollbar"></div>
       </div>
     </div>
   </div>
