@@ -6,9 +6,9 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Blade Runner
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/bladerunner2.jpg
 alt: image alt text
+hyperlink: https://movie.daum.net/moviedb/main?movieId=10962
 
 ---
 Use this area to describe your project. **Markdown** supported.
@@ -16,7 +16,7 @@ Use this area to describe your project. **Markdown** supported.
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Release : 1982
+- Director : Ridley Scott
+- Genre : SF / Drama / Action
 

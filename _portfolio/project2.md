@@ -1,8 +1,8 @@
 ---
 title: Magnolia
-subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/magnolia2.jpg
 alt: Keep Exploring
+hyperlink: https://movie.daum.net/moviedb/main?movieId=150
 
 caption:
   title: Magnolia
@@ -14,6 +14,6 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Release : 1999
+- Director : Paul Thomas Anderson
+- Genre : Drama

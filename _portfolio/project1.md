@@ -1,8 +1,8 @@
 ---
 title: Gravity
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/gravity2.jpg
 alt: Shirts on a hanger
+hyperlink: https://movie.daum.net/moviedb/main?movieId=59546
 
 caption:
   title: Gravity
@@ -14,6 +14,6 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Release : 2013
+- Director : Alfonso Cuarón
+- Genre : SF / Drama / Thriller

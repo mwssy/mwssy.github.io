@@ -1,8 +1,8 @@
 ---
 title: Sing Street
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/singstreet2.jpg
 alt: Shirts on a hanger
+hyperlink: https://movie.daum.net/moviedb/main?movieId=100619
 
 caption:
   title: Sing Street
@@ -14,6 +14,6 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Release : 2016
+- Director : Sean Baker
+- Genre : Drama / Music / Romance
