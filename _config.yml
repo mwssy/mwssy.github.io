@@ -27,7 +27,7 @@ author     :  영화웹
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: G-7BQ9TLD6N4
+  google:
 
 collections:
   portfolio:
