@@ -11,9 +11,7 @@ alt: image alt text
 hyperlink: https://movie.daum.net/moviedb/main?movieId=112481
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
 
 {:.list-inline} 
 
