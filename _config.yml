@@ -18,7 +18,7 @@ baseurl:  "/" # the subpath of your site, e.g. /movie_website
 
 title      :  MovieMovie
 email      :  mokmail070@mokwon.ac.kr
-description:  "영화를 사랑하는 사람들"
+description:  ""
 author     :  영알못
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
