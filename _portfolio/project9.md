@@ -13,7 +13,6 @@ hyperlink: https://movie.daum.net/moviedb/main?movieId=111254
 ---
 
 {:.list-inline} 
-
 - Release : 2017
 - Director : Martin McDonagh
 - Genre : Drama / Crime / Black Comedy

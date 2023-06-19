@@ -8,11 +8,11 @@ caption:
   title: Gravity
   subtitle: 그래비티
   thumbnail: assets/img/portfolio/gravity1.jpg
+  
 ---
 
 
 {:.list-inline}
-
 - Release : 2013
 - Director : Alfonso Cuarón
 - Genre : SF / Drama / Thriller

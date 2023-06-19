@@ -12,7 +12,6 @@ caption:
 
 
 {:.list-inline}
-
 - Release : 2016
 - Director : Sean Baker
 - Genre : Drama / Music / Romance

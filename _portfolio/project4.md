@@ -14,7 +14,6 @@ hyperlink: https://movie.daum.net/moviedb/main?movieId=112481
 
 
 {:.list-inline} 
-
 - Release : 2017
 - Director : Sean Baker
 - Genre : Drama

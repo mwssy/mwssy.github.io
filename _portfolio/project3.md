@@ -14,7 +14,6 @@ hyperlink: https://movie.daum.net/moviedb/main?movieId=49198
 
 
 {:.list-inline} 
-
 - Release : 2009
 - Director : Pete Docter
 - Genre : Drama / Adventure / Comedy

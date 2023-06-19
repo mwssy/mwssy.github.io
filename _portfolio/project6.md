@@ -12,7 +12,6 @@ caption:
 
 
 {:.list-inline}
-
 - Release : 2017
 - Director : Jordan Peele
 - Genre : Horror / Thriller / Suspense

@@ -13,7 +13,6 @@ hyperlink: https://movie.daum.net/moviedb/main?movieId=117766
 ---
 
 {:.list-inline} 
-
 - Release : 2015
 - Director : Denis Villeneuve
 - Genre : Crime / Thriller
