@@ -27,7 +27,7 @@ author     :  영알못
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-7BQ9TLD6N4
 
 collections:
   portfolio:
