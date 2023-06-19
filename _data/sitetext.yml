@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 그래도 영화 사랑하시죠?
+    title: 영화 웹사이트
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#portfolio"
