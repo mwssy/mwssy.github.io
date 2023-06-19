@@ -12,6 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
 url    :  "http://mwssy.github.io" # the base hostname & protocol for your site, e.g. http://mwssy.github.io
 baseurl:  "" # the subpath of your site, e.g. /movie_website
